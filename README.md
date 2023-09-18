@@ -28,11 +28,14 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.giphy.com/media/qnh4dfTcqKReQxx3UR/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/qnh4dfTcqKReQxx3UR/giphy.gif"  />
 
 ###
 
-<p align="left">- 🔭 I’m a Full-Stack Developer<br>- 📚 I'm currently learning Web Development<br>- 📸 I love Photography, Games<br>-</p>
+<p align="left"><li> 🔭 I’m a Full-Stack Developer</li>
+  <li> 📚 I'm currently learning Web Development</li>
+  <li> 📸 I love Photography, Games</li>
+</p>
 
 ###
 
