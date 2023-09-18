@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">I'm Aman Verma Full-Stack Developer</h1>
+<h1 align="left">I'm Aman Verma <em color="#e45c22">Full-Stack Developer</em></h1>
 
 ###
 
@@ -110,10 +110,12 @@
 
 ###
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanverma2908&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=My stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/?username=amanverma2908&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+    <img src="https://streak-stats.demolab.com?user=amanverma2908&locale=en&mode=daily&theme=cobalt&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanverma2908&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=amanverma2908&locale=en&mode=daily&theme=cobalt&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
+
 </div>
 
 ###
