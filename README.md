@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">I'm Aman Verma <em color="#e45c22">Full-Stack Developer</em></h1>
+<h1 align="center">I'm <b>Aman Verma&nbsp;</b><em> - Full-Stack Developer</em></h1>
 
 ###
 
@@ -15,7 +15,9 @@
   <a href="https://medium.com/@midnightcoder" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="44" height="24" alt="medium logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="24" alt="instagram logo"  />
+ <a href="https://instagram.com/aman.verma_29" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="24" alt="instagram logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/midnightcoder" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="24" alt="linkedin logo"  />
   </a>
