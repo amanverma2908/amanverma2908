@@ -12,24 +12,18 @@
 
 <div align="center">
 
-<div style="
-  max-width:720px;
-  padding:28px;
-  border-radius:16px;
-  background:rgba(255,255,255,0.04);
-  border:1px solid rgba(255,255,255,0.08);
-">
+<div style="max-width:720px; padding:28px; border-radius:16px; background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.08);">
 
 <p align="left">
 
-🧩 Full stack developer focused on building clean, scalable systems
+Full stack developer focused on building clean, scalable systems
 across frontend, backend, and data layers.
 
 <br><br>
 
-⚡ Strong in JavaScript fundamentals and problem solving
-⚙️ Experience with APIs, automation, and system workflows
-🧠 Exploring system design and scalable architectures
+Strong in JavaScript and problem solving
+Experience with APIs, automation, and system workflows
+Exploring system design and scalable architectures
 
 </p>
 
@@ -41,24 +35,28 @@ across frontend, backend, and data layers.
 
 <div align="center">
 
-<div style="
-  max-width:720px;
-  padding:24px;
-  border-radius:16px;
-  background:rgba(255,255,255,0.03);
-  border:1px solid rgba(255,255,255,0.06);
-">
+<div style="max-width:720px; padding:24px; border-radius:16px; background:rgba(255,255,255,0.03); border:1px solid rgba(255,255,255,0.06);">
 
 <p align="left">
 
-🧪 **Selected Work**
+<b>Selected Work</b>
 
-🎮 Tic Tac Toe (Web App)
+<br><br>
+
+Codebase IDE
+→ https://github.com/amanverma2908/codebase-ide
+Browser-based coding environment with structured file handling and execution flow
+
+<br>
+
+Tic Tac Toe (Web App)
 → https://github.com/amanverma2908/tic-tac-toe
-Interactive UI with state-driven logic
+Interactive UI with state-driven game logic
 
-⚙️ Automation Scripts
-→ Workflow optimization & testing efficiency
+<br>
+
+Automation Scripts
+→ Workflow optimization and testing efficiency
 
 </p>
 
@@ -70,19 +68,61 @@ Interactive UI with state-driven logic
 
 <div align="center">
 
-<div style="
-  max-width:720px;
-  padding:22px;
-  border-radius:16px;
-  background:rgba(255,255,255,0.02);
-  border:1px solid rgba(255,255,255,0.05);
-">
+<table>
+<tr>
+
+<td align="center" width="140">
+
+<b>Frontend</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=js" width="28"/><br>JavaScript<br><br> <img src="https://skillicons.dev/icons?i=react" width="28"/><br>React<br><br> <img src="https://skillicons.dev/icons?i=html" width="28"/><br>HTML<br><br> <img src="https://skillicons.dev/icons?i=css" width="28"/><br>CSS
+
+</td>
+
+<td align="center" width="140">
+
+<b>Backend</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="28"/><br>Node.js<br><br> <img src="https://skillicons.dev/icons?i=express" width="28"/><br>Express
+
+</td>
+
+<td align="center" width="140">
+
+<b>Data</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="28"/><br>MongoDB<br><br> <img src="https://skillicons.dev/icons?i=mysql" width="28"/><br>SQL
+
+</td>
+
+<td align="center" width="140">
+
+<b>Tools</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=linux" width="28"/><br>Linux<br><br> <img src="https://skillicons.dev/icons?i=git" width="28"/><br>Git<br><br> <img src="https://skillicons.dev/icons?i=python" width="28"/><br>Python<br><br> <img src="https://skillicons.dev/icons?i=cpp" width="28"/><br>C++
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<div style="max-width:720px; padding:20px; border-radius:16px; background:rgba(255,255,255,0.02); border:1px solid rgba(255,255,255,0.05);">
 
 <p align="left">
 
-🧰 **Stack**
+<b>Currently Exploring</b>
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,cpp,mongodb,mysql,linux,git" height="32" />
+<br><br>
+
+Scalable backend systems
+API design and distributed systems
+Advanced JavaScript (async patterns, closures)
 
 </p>
 
@@ -94,21 +134,21 @@ Interactive UI with state-driven logic
 
 <div align="center">
 
-<div style="
-  max-width:720px;
-  padding:20px;
-  border-radius:16px;
-  background:rgba(255,255,255,0.02);
-  border:1px solid rgba(255,255,255,0.05);
-">
+<div style="max-width:720px; padding:20px; border-radius:16px; background:rgba(255,255,255,0.02); border:1px solid rgba(255,255,255,0.05);">
 
 <p align="left">
 
-🧠 **Currently Exploring**
+<b>Links</b>
 
-• Scalable backend systems
-• API design & distributed systems
-• Advanced JavaScript (async patterns, closures)
+<br><br>
+
+Writing
+https://medium.com/@midnightcoder
+
+<br>
+
+Portfolio
+https://your-portfolio-link.com
 
 </p>
 
@@ -119,7 +159,7 @@ Interactive UI with state-driven logic
 ---
 
 <div align="center">
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=amanverma2908&show_icons=false&hide_border=true&bg_color=00000000&title_color=6B7280&text_color=8B949E"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=amanverma2908&show_icons=true&hide_border=true&theme=transparent" />
 </div>
 
 ---
